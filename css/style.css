@@ -1,0 +1,48 @@
+body {
+    padding-top: 5rem;
+  }
+.starter-template {
+padding: 3rem 1.5rem;
+text-align: center;
+}
+.form-article{
+  border: 0.1rem solid rgb(107, 107, 107);
+  border-radius: 1%;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  background-color: grey;
+}
+.bordure{
+  padding: 5px;
+  border-radius: 2%;
+  background-color: rgb(158, 158, 158);
+}
+.form-contour{
+  border: 0.1rem solid rgb(117, 117, 117);
+  padding: 5px;
+  margin: 5px;
+  border-radius: 1%;
+}
+body{
+  background-color: rgb(196, 196, 196);
+}
+h1 i{
+  color: green ;
+}
+li{
+  list-style-type: none;
+}
+.boutique-img{
+  height: 150px;
+  width: 150px;
+}
+
+.bordure-article{
+  border: 1px solid rgb(80, 80, 80);
+  border-radius: 2%;
+  background-color: rgb(78, 129, 82);
+  color: white;
+}
+.tableau-bordure{
+  border: 0.1rem solid rgb(117, 117, 117);
+}
